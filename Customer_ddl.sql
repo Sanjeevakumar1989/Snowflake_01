@@ -6,4 +6,6 @@
    (1,'Sanjeev','Karimangalam',88836),
    (2,'Muthulakshmi','Kudukottai',95585),
    (3,'Girivasan','Mysore',82801),
-   (4,'Thanya','Dharmapuri',535884);
+   (4,'Thanya','Dharmapuri',535884),
+   (5,'Arjunan','Kottaour',114144),
+   (6,'Maadhu','Anchetty',121234);
